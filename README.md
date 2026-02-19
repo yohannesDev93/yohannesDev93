@@ -44,22 +44,84 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ===================== ABOUT ME SECTION ===================== -->
-<h2 align="center">🚀 About Me</h2>
+<h2 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+  ABOUT ME
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+</h2>
+
 <div align="center">
-  <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+  <img width="90%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-<br>
+<br/>
 
-🎯 **I'm Yohannes Wegayehu**, a passionate **Full-Stack Developer** specializing in **MERN**, **PERN**, and **Next.js** with expertise in **React Native** mobile development.
 
-- 🔭 I'm currently working on **Enterprise-level MERN applications & React Native mobile apps**
-- 🌱 I'm constantly learning **Advanced Next.js patterns & Mobile App Optimization**
-- 👯 I'm looking to collaborate on **Open Source projects & Innovative startups**
-- 💬 Ask me about **React, Node.js, Next.js, React Native, MongoDB, PostgreSQL**
-- 📫 How to reach me: **Jyohannes974@gmail.com**
-- ⚡ Fun fact: **I've built 3+ major app clones (Netflix, Amazon, Apple) to master my skills!**
 
+<br/>
+
+<div align="left">
+  <table>
+    <tr>
+      <td>
+        <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 
+        <strong>I'm Yohannes Wegayehu</strong>, a passionate <strong>Full-Stack Developer</strong> specializing in <strong>MERN</strong>, <strong>PERN</strong>, and <strong>Next.js</strong> with expertise in <strong>React Native</strong> mobile development.
+      </td>
+      <td>
+        <div align="center">
+  <img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+</div>
+      </td>
+    </tr>
+  </table>
+  
+  <br/>
+  
+  <table>
+    <tr>
+      <td width="40%" valign="top">
+        <h3>📌 Current Focus</h3>
+        <ul>
+          <li>🔭 Working on <strong>Enterprise-level MERN applications & React Native mobile apps</strong></li>
+          <li>🌱 Learning <strong>Advanced Next.js patterns & Mobile App Optimization</strong></li>
+        </ul>
+      </td>
+      <td width="40%" valign="top">
+        <h3>🤝 Collaboration</h3>
+        <ul>
+          <li>👯 Looking to collaborate on <strong>Open Source projects & Innovative startups</strong></li>
+          <li>💬 Ask me about <strong>React, Node.js, Next.js, React Native, MongoDB, PostgreSQL</strong></li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+  
+  <br/>
+  
+  <table>
+    <tr>
+      <td width="50%">
+        <h3>📫 Contact</h3>
+        <p>
+          <a href="mailto:Jyohannes974@gmail.com">
+            <img src="https://img.shields.io/badge/Jyohannes974@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+          </a>
+        </p>
+      </td>
+      <td width="50%">
+        <h3>⚡ Fun Fact</h3>
+        <p>
+          <img src="https://img.shields.io/badge/I've_built_3+-_major_app_clones_(Netflix,_Amazon,_Apple)_to_master_my_skills!-FF6F00?style=for-the-badge&logo=netflix&logoColor=white" alt="Fun Fact"/>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br clear="right"/>
+<div align="center">
+  <img width="90%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 <br clear="right"/>
 
 <!-- ===================== TECH STACK WITH ANIMATED ICONS ===================== -->
@@ -85,8 +147,9 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
 </p>
@@ -96,7 +159,6 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 
@@ -111,8 +173,6 @@
 <h3 align="center">DevOps & Tools</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
