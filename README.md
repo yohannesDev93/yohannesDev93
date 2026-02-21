@@ -14,7 +14,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yohannesDev93&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/yohannesDev93?label=Followers&style=social" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/yohannesDev93?label=Stars&style=social" alt="GitHub Stars" />
+  <img src="https://img.shields.io/github/stars/yohannesDev93?style=social" alt="GitHub stars" />
 </p>
 
 <!-- ===================== CONNECT WITH ME ===================== -->
@@ -65,7 +65,7 @@
     <tr>
       <td>
         <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 
-        <strong>I'm Yohannes Wegayehu</strong>, a passionate <strong>Full-Stack Developer</strong> specializing in <strong>MERN</strong>, <strong>PERN</strong>, and <strong>Next.js</strong> with expertise in <strong>React Native</strong> mobile development.
+        <strong>I'm Yohannes Wegayehu</strong>, a passionate <strong>Full-ck Developer</strong> specializing in <strong>MERN</strong>, <strong>PERN</strong>, and <strong>Next.js</strong> with expertise in <strong>React Native</strong> mobile development.
       </td>
       <td>
         <div align="center">
@@ -89,7 +89,7 @@
       <td width="40%" valign="top">
         <h3>🤝 Collaboration</h3>
         <ul>
-          <li>👯 Looking to collaborate on <strong>Open Source projects & Innovative startups</strong></li>
+          <li>👯 Looking to collaborate on <strong>Open Source projects & Innovative rtups</strong></li>
           <li>💬 Ask me about <strong>React, Node.js, Next.js, React Native, MongoDB, PostgreSQL</strong></li>
         </ul>
       </td>
@@ -124,8 +124,8 @@
 </div>
 <br clear="right"/>
 
-<!-- ===================== TECH STACK WITH ANIMATED ICONS ===================== -->
-<h2 align="center">💻 Tech Stack & Tools</h2>
+<!-- ===================== TECH CK WITH ANIMATED ICONS ===================== -->
+<h2 align="center">💻 Tech ck & Tools</h2>
 
 <p align="center">
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="50px">
@@ -193,7 +193,7 @@
           <a href="https://github.com/yohannesDev93/netflix-clone" target="_blank">
             <img src="https://img.shields.io/badge/-VIEW_REPO-4285F4?style=for-the-badge&logo=github&logoColor=white" />
           </a>
-          <p><strong>React, Node.js, MongoDB, TMDB API</strong> - Full-stack streaming platform with user authentication, movie browsing, and watchlist functionality.</p>
+          <p><strong>React, Node.js, MongoDB, TMDB API</strong> - Full-ck streaming platform with user authentication, movie browsing, and watchlist functionality.</p>
         </div>
       </td>
       <td width="50%">
@@ -222,7 +222,7 @@
           <a href="https://github.com/yohannesDev93/food-delivery-app" target="_blank">
             <img src="https://img.shields.io/badge/-VIEW_REPO-4285F4?style=for-the-badge&logo=github&logoColor=white" />
           </a>
-          <p><strong>React Native, Expo, Firebase</strong> - Real-time food ordering with restaurant listings and delivery tracking.</p>
+          <p><strong>React Native, Expo, Firebase</strong> - Real-time food ordering with reurant listings and delivery tracking.</p>
         </div>
       </td>
     </tr>
@@ -249,40 +249,12 @@
   </table>
 </div>
 
-<!-- ===================== STATISTICS SECTION ===================== -->
-<h2 align="center">📊 GitHub Statistics</h2>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yohannesDev93&theme=radical" alt="Profile Details" width="90%"/>
-</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yohannesDev93&show_icons=true&count_private=true&hide_border=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yohannesDev93&hide_border=true&theme=radical" alt="GitHub Streak" width="48%" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yohannesDev93&layout=compact&hide_border=true&theme=radical" alt="Top Languages" width="45%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=yohannesDev93&theme=radical&no-frame=true&row=2&column=4" alt="GitHub Trophies" width="50%" />
-</p>
 
-<!-- ===================== CONTRIBUTION GRAPH ===================== -->
-<h2 align="center">📈 Contribution Graph</h2>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yohannesDev93&theme=react-dark&bg_color=20232a&hide_border=true" width="90%"/>
-</p>
 
-<!-- ===================== 3D CONTRIBUTION CALENDAR ===================== -->
-<h2 align="center">🗓️ 3D Contribution Calendar</h2>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yohannesDev93/yohannesDev93/main/profile-3d-contrib/profile-night-rainbow.svg" width="90%" alt="3D Contribution Calendar"/>
-</p>
 
-<!-- ===================== WAKATIME STATS ===================== -->
-<h2 align="center">⏱️ Coding Activity</h2>
-<p align="center">
-  <img src="https://wakatime.com/share/@yohannesDev93/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx.svg" width="90%" alt="WakaTime Stats"/>
-</p>
 
 <!-- ===================== DYNAMIC QUOTE ===================== -->
 <h2 align="center">💭 Random Dev Quote</h2>
@@ -308,18 +280,7 @@
   </a>
 </p>
 
-<!-- ===================== SUPPORT SECTION ===================== -->
-<h2 align="center">☕ Support Me</h2>
-<p align="center">
-  <a href="https://www.buymeacoffee.com/yohannesDev93">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://ko-fi.com/yohannesDev93">
-    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" />
-  </a>
-</p>
+
 
 <!-- ===================== ANIMATED FOOTER ===================== -->
 <p align="center">
@@ -331,15 +292,6 @@
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
-<!-- ===================== VISITOR COUNTER ===================== -->
-<div align="center">
-  <img src="https://profile-counter.glitch.me/yohannesDev93/count.svg?"  />
-</div>
 
-<!-- ===================== SPOTIFY NOW PLAYING ===================== -->
-<h2 align="center">🎵 Now Playing</h2>
-<p align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default" alt="Spotify Now Playing" />
-  </a>
-</p>
+
+
